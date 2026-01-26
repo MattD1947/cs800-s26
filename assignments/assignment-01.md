@@ -95,5 +95,5 @@ npm rm -g learnyouhtml
 ### Youtube video
 
 * Record your screen of you 1) viewing the files, and 2) executing each of the three commands to show completion.  I am issuing grades based on what your video shows; if you don't show/demonstrate something in your video, I'm not grading it.  
-* Upload that video to Youtube (see [week 1 slides](https://docs.google.com/presentation/d/1w_90xM9p4Kz7Q7b-kUWCr9Gcl93u1rIQdw1YQANsoF8/edit)
+* Upload that video to Youtube (see [week 1 slides](https://docs.google.com/presentation/d/1w_90xM9p4Kz7Q7b-kUWCr9Gcl93u1rIQdw1YQANsoF8/edit))
 
