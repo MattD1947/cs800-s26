@@ -19,7 +19,7 @@ This is my submission for Assignment 1.
 
 ## Screenshot
 
-![Learn You HTML](learnyouhtml.png)
+![Learn You HTML](learnyouhtml.PNG)
 
 ## Youtube Video
 
