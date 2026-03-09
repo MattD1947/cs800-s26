@@ -20,4 +20,4 @@ This submission contains a literature review of five papers in my research area 
 
 A short YouTube video walking through the Overleaf compilation and download, as well as scrolling through the review, briefly describing each paper:
 
-**Video Link:** [YouTube Video]()
+**Video Link:** [YouTube Video](https://youtu.be/-_htd76DL1o)
