@@ -14,7 +14,7 @@
     │   │   └── synthesis.tex
     │   ├── litreview.bib
     │   └── litreview.tex
-    ├── CS800___Mehrdad_lit_rev (3).pdf
+    ├── CS800___Mehrdad_lit_rev.pdf
     └── README.md
 ```
 
@@ -48,7 +48,8 @@ In this assignment, I have created an overleaf file with sections below:
 - [litreview.bib](Latex_files/litreview.bib)
 
 #### Compiled PDF
-- [CS800_Mehrdad_lit_rev.pdf](CS800_Mehrdad_lit_rev%20(3).pdf)
+- [CS800_Mehrdad_lit_rev.pdf](CS800___Mehrdad_lit_rev.pdf)
+
 
 
 
