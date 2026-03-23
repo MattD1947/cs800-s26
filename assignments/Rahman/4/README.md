@@ -31,7 +31,7 @@ Rahman
 ### Papers Detail
 1. The Automation Advantage in AI Red Teaming 
 ```
-@misc{mulla2025automation,
+@techreport{mulla2025automation,
   title={The Automation Advantage in {AI} Red Teaming},
   author={Mulla, Rob and Dawson, Ads and Abruzzon, Vincent and Greunke, Brian and Landers, Nick and Palm, Brad and Pearce, Will},
   number ={arXiv:2504.19855},
@@ -45,7 +45,7 @@ PDF: [Red Teaming](../3/pdfs/adv_ai_2504.19855v2.pdf)
 
 2. Cybersecurity AI: Evaluating Agentic Cybersecurity in Attack/Defense CTFs 
 ```
-@misc{balassone2025cybersecurity,
+@techreport{balassone2025cybersecurity,
   title={Cybersecurity {AI}: Evaluating Agentic Cybersecurity in Attack/Defense {CTFs}},
   author={Balassone, Francesco and Mayoral-Vilches, V{\'\i}ctor and Rass, Stefan and Pinzger, Martin and Perrone, Gaetano and Romano, Simon Pietro and Schartner, Peter},
   number ={arXiv:2510.17521},
@@ -60,7 +60,7 @@ PDF: [CAI](../3/pdfs/cai_2510.17521v1.pdf)
 
 3. D-CIPHER: Dynamic Collaborative Intelligent Multi-Agent System with Planner and Heterogeneous Executors for Offensive Security 
 ```
-@misc{udeshi2025d,
+@techreport{udeshi2025d,
   title={{D-CIPHER}: Dynamic Collaborative Intelligent Multi-Agent System with Planner and Heterogeneous Executors for Offensive Security},
   author={Udeshi, Meet and Shao, Minghao and Xi, Haoran and Rani, Nanda and Milner, Kimberly and Putrevu, Venkata Sai Charan and Dolan-Gavitt, Brendan and Shukla, Sandeep Kumar and Krishnamurthy, Prashanth and Khorrami, Farshad and others},
   number ={arXiv:2502.10931},
@@ -92,7 +92,7 @@ PDF: [PentestGPT](../3/pdfs/p_gpt_2308.06782v2.pdf)
 
 5. Cybersecurity AI: Hacking the AI Hackers via Prompt Injection 
 ```
-@misc{mayoral2025cybersecurity,
+@techreport{mayoral2025cybersecurity,
   title={Cybersecurity {AI}: Hacking the {AI} Hackers via Prompt Injection},
   author={Mayoral-Vilches, V{\'\i}ctor and Rynning, Per Mannermaa},
   number ={arXiv:2508.21669},
