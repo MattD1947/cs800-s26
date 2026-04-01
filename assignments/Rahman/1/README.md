@@ -1,8 +1,7 @@
-# Assignment 1 Submitted by Md Habibur Rahman on HTML
-Submitted Monday
+# Assignment 1: Course Setup and PCR
 
 ## Description
-This is the implementation of `learnyouhtml` where multiple attributes, tags are introduced.
+This is the implementation of `learnyouhtml`.
 
 ## Topics Covered
 * HTML

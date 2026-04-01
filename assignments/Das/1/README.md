@@ -1,8 +1,5 @@
-# CS 800 – Assignment 1: Course Setup and HTML Workshop  
-**Course:** CS 800 – Research Methods  
-**Semester:** Spring 2026  
-
----
+# Assignment 1 – Course Setup and HTML Workshop  
+CS 800: Research Methods (Spring 2026)
 
 ## Student Information
 - **Name:** Protiva Das  
@@ -10,81 +7,88 @@
 
 ---
 
-## Assignment Overview
-This assignment demonstrates completion of the **learnyouhtml** workshop and
-basic HTML proficiency. Each workshop exercise is saved as an individual HTML
-file following the required CS 800 repository structure.
+## Assignment Description
+This assignment covers the initial setup required for CS 800, including
+Git/GitHub usage, Markdown documentation, and completion of the
+**learnyouhtml** interactive HTML workshop.
+
+The HTML workshop was completed to demonstrate understanding of:
+- Basic HTML document structure
+- Tags and attributes
+- Inline and block elements
+- Headings, lists, tables
+- Forms, links, images, styles, and scripts
 
 ---
 
-## HTML Concepts Demonstrated
-- Basic HTML document structure  
-- Tags and attributes  
-- Inline and block-level elements  
-- Headings, lists, and tables  
-- Links and images  
-- Forms  
-- Styles and scripts  
+## Directory Contents
 
----
+assignments/Das/1/
+├── html/
+│ └── index.html
+├── learnyouhtml-complete.png
+└── README.md
 
-## Directory Structure
 
-assignments/Das/1/  
-├── html/  
-│   ├── hello-world.html  
-│   ├── tags.html  
-│   ├── attributes.html  
-│   ├── inline-tags.html  
-│   ├── headings.html  
-│   ├── lists.html  
-│   ├── tables.html  
-│   ├── blocks.html  
-│   ├── links-images.html  
-│   ├── forms.html  
-│   ├── styles.html  
-│   ├── index.html  
-│   └── style.css  
-├── learnyouhtml-complete.png  
-└── README.md  
 
----
 
-## HTML Exercise Files (learnyouhtml)
+- **html/**  
+  Contains the HTML file used to complete all learnyouhtml exercises.
 
-The following files correspond to the completed learnyouhtml workshop exercises:
+- **learnyouhtml-complete.png**  
+  Screenshot showing successful completion of all learnyouhtml challenges.
 
-- `hello-world.html`
-- `tags.html`
-- `attributes.html`
-- `inline-tags.html`
-- `headings.html`
-- `lists.html`
-- `tables.html`
-- `blocks.html`
-- `links-images.html`
-- `forms.html`
-- `styles.html`
+- **README.md**  
+  This file, documenting Assignment 1.
 
 ---
 
 ## Screenshot of learnyouhtml Completion
 
-![learnyouhtml completion](learnyouhtml-complete.png)
+The following screenshot shows the successful completion screen of all
+learnyouhtml exercises:
+
+![learnyouhtml completion screenshot](learnyouhtml-complete.png)
 
 ---
 
 ## Video Demonstration
-An unlisted YouTube video demonstrating:
-- Listing of the assignment files and directories  
-- The completed learnyouhtml workshop end screen  
 
-**YouTube Link:**  
+An unlisted YouTube video demonstrating:
+1. Listing of the assignment files and directories  
+2. The completed learnyouhtml workshop end screen  
+
+**YouTube link:**  
 https://youtu.be/gVCC8hUfgVU
 
 ---
 
 ## Submission Notes
-- All work was completed individually.
-- All required HTML files are included in the correct directory.
-- This submission follows the CS 800 Assignment 1 guidelines.
+- All work was completed locally and pushed to GitHub
+- This assignment was submitted via a pull request to the instructor’s repository
+- All required files, screenshot, and video link are included in this directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
